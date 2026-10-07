@@ -24,7 +24,7 @@ Base de Datos: MySQL en XAMPP para almacenamiento relacional e historial persist
 Gestión de Base de Datos: phpMyAdmin (XAMPP) para la creación, administración y consulta de las tablas.
 
   Capa de Aplicación:
-Interfaz de Usuario: Consulta de datos en phpMyAdmin o un Dashboard local conectado directamente a MySQL en XAMPP para visualizar constantes vitales y alertas de caídas
+Interfaz de Usuario: Consulta de datos en phpMyAdmin o un Dashboard local conectado directamente a MySQL en XAMPP para analizar las medidas vitales y alertas de caídas
 
 
 3. Ubicación Corporal y Render del Dispositivo
