@@ -28,4 +28,5 @@ Interfaz de Usuario: Consulta de datos en phpMyAdmin o un Dashboard local conect
 
 
 3. Ubicación Corporal y Render del Dispositivo
+
   Ubicación: wearable para colocarse en la muñeca o el antebrazo.
