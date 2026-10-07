@@ -19,7 +19,7 @@ Capa de red:
 Módulo de Comunicación: ESP8266 (Wi-Fi) o HC-05 (Bluetooth) conectado al Arduino UNO para transmisión inalámbrica
 Protocolo: Envío de datos desde el módulo hacia la red local
 
-  Capa de Servidor y Base de Datos:
+  Capa de Servidor y Base de Datos:     
 Base de Datos: MySQL en XAMPP para almacenamiento relacional e historial persistente de las lecturas.
 Gestión de Base de Datos: phpMyAdmin (XAMPP) para la creación, administración y consulta de las tablas.
 
