@@ -1,10 +1,10 @@
-# RETO-IoT: Sistema de Monitoreo Biomédico de Constantes Vitales y Detección de Caídas (Etapa 1)
+# RETO-IoT: Sistema de Monitoreo Biomédico de Constantes Vitales y Detección de Caídas 
 
-Integrantes del Equipo:
+Equipo:
 - Maximiliano Tinajero Rojas
 - Roberto Emiliano Hernández Aguilar
 
-1. Descripción del Proyecto
+1. Descripción del Proyecto:
 Este proyecto aborda el desarrollo de un sistema wearable de tecnología IoT diseñado para el seguimiento de ciertas mediciones, siendo la oximetría y frecuencia cardíaca, temperatura corporal en tiempo real y la identificación de accidentes por caídas. Todo esto mediantw un microcontrolador local, su envío por vía inalámbrica y el almacenamiento estructurado en una base de datos local
 
 2. Arquitectura del Sistema (5 Capas)
