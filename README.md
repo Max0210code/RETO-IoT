@@ -16,7 +16,7 @@ Temperatura Corporal: DS18B20, MLX90614 o Termistor NTC
 Caídas/Actividad: MPU6050
 
   Capa de Procesamiento Local:    
-Microcontrolador: Arduino UNO   
+Microcontrolador: SP32S   
 Capa de red:
 Módulo de Comunicación: ESP8266 (Wi-Fi) o HC-05 (Bluetooth) conectado al Arduino UNO para transmisión inalámbrica
 Protocolo: Envío de datos desde el módulo hacia la red local
